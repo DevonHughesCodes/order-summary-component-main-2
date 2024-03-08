@@ -141,7 +141,7 @@ button {
     padding: 5px;
 }
 
-.container .pricing article h4 {
+.container .pricing article h2 {
     color: var(--dark-blue);
     font-size: 13px;
     font-weight: 900;
@@ -200,7 +200,7 @@ button {
         padding: 17px;
     }
 
-    .container .pricing article h4 {
+    .container .pricing article h2 {
         color: var(--dark-blue);
         font-size: 16px;
         font-weight: 900;
