@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/DevonHughesCodes/order-summary-component-main-2)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://devonhughescodes.github.io/order-summary-component-main-2/)
 
 ### Built with
 
